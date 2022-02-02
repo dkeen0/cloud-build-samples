@@ -19,7 +19,7 @@ import (
 )
 
 func main () {
-	fmt.Println("Hello,  universe!")
+	fmt.Println("Hello,  WORLD!")
 }
 
 
